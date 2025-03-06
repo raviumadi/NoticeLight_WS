@@ -1,0 +1,8 @@
+# Ignore PlatformIO build files
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+*.ini.save
+test/*
