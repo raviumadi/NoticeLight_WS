@@ -8,7 +8,7 @@ This project demonstrates WebSocket communication between two ESP32 devices:
 ![Status ON](img/esp_ws_on.png)
 ![Status OFF](img/esp_ws_off.png)
 
-## FeaturesP
+## Features
 - WebSocket-based real-time communication.
 - Standalone ESP32 Access Point - for ease of demonstration.
 - Uses PlatformIO for development.
